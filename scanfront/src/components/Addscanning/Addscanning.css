@@ -1,0 +1,56 @@
+/* Addscanning.css */
+
+.form-container1 {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  height: 3vh;
+  width: 95%;
+}
+
+
+.form-heading1 {
+  color: green;
+}
+
+.form-main-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.form-field1 {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+textarea.form-field1 {
+  height: 100px;
+  resize: none; /* Disable textarea resizing */
+}
+
+.form-button1 {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.paperstyle {
+  padding: 1px;    
+  height: 80vh; /* Adjusted height to 80vh */
+  width: 900px; /* Adjusted width to 450px */
+  margin: 20px auto; /* Adjusted margin */
+  margin-left: 20px;
+}
+
+.grid-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 110vh;
+  width: 80%;
+}
+
+
+/* Add additional styling as needed */
